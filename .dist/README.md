@@ -7,7 +7,7 @@ MY digital clock project <br>
 
 This is a digital clock program.
 
-![Digital Clock](.dist/Readme file.png)
+![Digital Clock](.dist/Background.jpeg)
 
 Description of the project continues here...
 
